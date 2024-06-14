@@ -11,6 +11,9 @@ I thrive on transforming ideas into reality through code. My journey in frontend
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tur-Iryna&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tur-Iryna&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Tur-Iryna&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+
 
 
 
