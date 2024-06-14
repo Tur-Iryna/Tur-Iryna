@@ -8,8 +8,6 @@ I thrive on transforming ideas into reality through code. My journey in frontend
 *  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" height="20"/> VUE JS
 
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tur-Iryna)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tur-Iryna&show_icons=true)  
